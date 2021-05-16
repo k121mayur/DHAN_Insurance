@@ -1,0 +1,71 @@
+#logo {
+    height: 100px;
+}
+.link{
+    text-decoration: none;
+    text-color: red;
+}
+.button{
+
+    position: relative;
+    bottom: 170px;
+    left: 1200px;
+    margin-right: 20px;
+    height: 30px;
+}
+
+
+
+.container{
+    
+}
+
+#formDiv{
+
+    width: 350px;
+    height: 300px;
+    padding: 5px;
+    border: 2px solid blue;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+h1{
+    position: relative;
+    left: 320px;
+    bottom: 100px;
+}
+#para{
+    margin: auto;
+    bottom: 120px;
+    position: relative;
+    left: 580px;
+}
+hr{
+    position: relative;
+    bottom: 130px;
+}
+.loginDiv{
+    display: grid;
+    align-content: center;
+    position: relative;
+    left: 510px;
+}
+form button{
+    color: red;
+    margin-bottom: 15px;
+    position: relative;
+    left: 140px;
+    margin-right: 5px;
+    height: 25px;
+}
+/* button{
+    height: auto;
+    width: auto;
+    margin: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    background-color: chocolate;
+}
+ */
+
